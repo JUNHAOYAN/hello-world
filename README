@@ -5,3 +5,7 @@ https://blog.csdn.net/u011974639/article/details/78483779?locationNum=9&fps=1
  --ROL POOLing
  https://zhuanlan.zhihu.com/p/27640199
  --RPN layer
+ ###
+ 30*40*2k, and 30*40*4k, where 30*40 is the feature size from conv layer from VGG16, k is the number of anchor per pixel.
+ ###
+ https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/
