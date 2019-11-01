@@ -6,6 +6,7 @@ https://blog.csdn.net/u011974639/article/details/78483779?locationNum=9&fps=1
  https://blog.csdn.net/qinghuaci666/article/details/80900882
  --ROI POOLing
  https://zhuanlan.zhihu.com/p/27640199
+ https://towardsdatascience.com/region-of-interest-pooling-f7c637f409af
  --RPN layer
  ###
  30*40*2k, and 30*40*4k, where 30*40 is the feature size from conv layer from VGG16, k is the number of anchor per pixel.
